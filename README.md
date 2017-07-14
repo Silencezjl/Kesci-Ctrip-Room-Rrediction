@@ -5,7 +5,7 @@
 https://www.kesci.com/apps/home/#!/lab/dataset/58d4e28c84a25f34b1d94906/document
 
 开发环境：
-| **`Linux CPU`** | **`Linux GPU`** | **`Mac OS CPU`** | **`Windows CPU`** | **`Android`** |
+| **`Mac OS CPU`** | **`Python 3.5`** | **`LightGBM 0.2`** | **`Xgboost 0.6`** |
 
 # 1.	队伍介绍
 &emsp;&emsp;队名：还没有到极限吧？ 由2个小伙伴组成，这是我们第一次合作参加的大数据比赛，配合还是比较默契。希望以后参加比赛的时候，一开始少交流，各人独自提取特征，再来进行特征融合。这样得到的特征将会更多样。
